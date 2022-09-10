@@ -1,0 +1,16 @@
+{
+  "name": "i6-technical-test-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:runner": "cypress open",
+    "trigger-tests-chrome": "npx cypress run --headed --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.7.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}

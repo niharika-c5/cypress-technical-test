@@ -1,0 +1,13 @@
+{
+  "firstName": "Test",
+  "lastName": "Quality",
+  "invalidEmail": "aaaa88888",
+  "enquiryType": "Careers",
+  "company":"info",
+  "validEmail":"qa1@info.com",
+  "homePageTitle":"i6 Group - Aviation Fuel Management Software",
+  "aboutPageTitle":"About - i6 Group",
+  "contactPagetitle":"Contact Us - i6 Group",
+  "comNameAndMsgError":"Please fill in this field.",
+  "emailError":"Please include an '@' in the email address. 'aaaa88888' is missing an '@'."
+}
